@@ -1,6 +1,10 @@
 # ANALYTICS-EMPLOYESS
 HR Data Cleaning & Analysis — Conclusiones y Checklist
-8 oct 2026 · @Identificar como es la composición patrimonial de la empresa, si es por acciones
+
+8 oct 2026 · 
+
+@Identificar como es la composición patrimonial de la empresa, si es por acciones
+
 Cierre del proyecto de limpieza y análisis del dataset de empleados (Employees_raw_Data.csv), enfocado en apoyar decisiones de RRHH sobre retención y compensación.
 
 Resultados
