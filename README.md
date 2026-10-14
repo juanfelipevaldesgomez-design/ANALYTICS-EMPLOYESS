@@ -14,8 +14,3 @@ Resultados
 • Los empleados en modalidad remota muestran un desempeño promedio ligeramente superior (3.79) frente a presenciales (3.49) y no especificados (3.46) — diferencia real pero moderada.
 
 
-Conclusiones
-Lo que más me quedó fue el criterio para tratar nulos: un dato numérico se puede promediar, uno categórico no, así que rellené department y remote_work con "Unknown" en vez de inventar un valor. Es lo primero que contaría en una entrevista.
-Con más tiempo, el paso lógico sería dejar las reglas fijas de riesgo y entrenar un modelo con datos reales de quién renunció — algo que este dataset no tiene.
-Lo que más reforcé en este proyecto fue la limpieza de datos con criterio real de negocio, no solo mecánica: entender que un valor faltante numérico (salario) y uno categórico (departamento) requieren estrategias completamente distintas — no se puede "promediar" una categoría, así que decidí rellenar con "Unknown" en vez de inventar un dato que no tenía evidencia de ser correcto. Esa es la decisión que mencionaría primero en una entrevista: muestra que entiendo la diferencia entre completar datos y inventarlos.
-Con más tiempo o recursos, el siguiente paso lógico sería dejar de inferir riesgo con reglas fijas (3 señales combinadas) y construir un modelo predictivo real de probabilidad de rotación, entrenado con datos históricos de quién efectivamente dejó la empresa — algo que este dataset no incluye, y que sería la limitación más importante a resolver antes de llevar este análisis a producción.
