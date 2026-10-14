@@ -4,6 +4,8 @@ HR Data Cleaning & Analysis — Conclusiones y Checklist
 Cierre del proyecto de limpieza y análisis del dataset de empleados (Employees_raw_Data.csv), enfocado en apoyar decisiones de RRHH sobre retención y compensación.
 
 Resultados
+
+
 • 16 empleados (5.3%) combinan bajo desempeño y salario bajo frente a su departamento — lista entregada a RRHH.
 
 • HR (66.7%) y Finance (61.7%) son los departamentos con más riesgo proporcional; Sales el que menos (51.8%).
